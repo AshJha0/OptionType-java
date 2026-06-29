@@ -309,6 +309,3 @@ Because the interface is sealed, if all 15 permitted types are listed as `case` 
 
 ---
 
-## License
-
-See [LICENSE](LICENSE) for details.
